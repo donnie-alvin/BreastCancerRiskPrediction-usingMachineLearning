@@ -16,13 +16,11 @@ This project demonstrates the implementation of machine learning models to predi
 The goal of this project is to evaluate machine learning models' effectiveness in predicting breast cancer risk. The models are trained on breast cancer datasets to classify the cancer diagnosis as either benign or malignant. This repository contains the implementation of the models and a detailed comparison of their performance.
 
 ## Datasets
-Two datasets are used in this project:
+One dataset is used in this project:
 
-1. **Wisconsin Diagnostic Breast Cancer (WDBC) dataset**: A dataset from the UCI Machine Learning Repository, widely used for breast cancer classification tasks.
-2. **Breast Cancer Coimbra dataset**: A dataset containing clinical features for breast cancer prediction.
+1. **Breast Cancer Coimbra dataset**: A dataset containing clinical features for breast cancer prediction.
 
-You can download the datasets from:
-- [WDBC dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
+You can download the dataset from:
 - [Breast Cancer Coimbra dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra)
 
 ## Installation
@@ -30,7 +28,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/breast-cancer-prediction.git
+   git clone https://github.com/donnie-alvin/BreastCancerRiskPrediction-usingMachineLearning.git
    cd breast-cancer-prediction
    ```
 
