@@ -80,5 +80,6 @@ The following results were obtained for each model (with default parameters):
 - **Fine-tuning of models**: Further parameter tuning can be done to enhance model performance.
 - **Exploring more algorithms**: Models such as deep learning networks can be explored.
 - **Feature Engineering**: Additional feature selection techniques can be implemented to improve prediction accuracy.
+- **Flask UI Development**: Implement a web interface using Flask to allow users to interact with the machine learning models and visualize results.
 
 ## License
